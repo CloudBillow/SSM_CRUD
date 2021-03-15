@@ -1,0 +1,41 @@
+{
+  "code": 100,
+  "msg": "处理成功!",
+  "extend": {
+    "pageInfo": {
+      "total": 11,
+      "list": [
+        {
+          "empId": 3153,
+          "empName": "miracle1",
+          "gender": "F",
+          "email": "18560722235@132.com",
+          "dId": 2,
+          "department": {
+            "deptId": 2,
+            "deptName": "测试部"
+          }
+        }
+      ],
+      "pageNum": 2,
+      "pageSize": 10,
+      "size": 1,
+      "startRow": 11,
+      "endRow": 11,
+      "pages": 2,
+      "prePage": 1,
+      "nextPage": 0,
+      "isFirstPage": false,
+      "isLastPage": true,
+      "hasPreviousPage": true,
+      "hasNextPage": false,
+      "navigatePages": 5,
+      "navigatepageNums": [
+        1,
+        2
+      ],
+      "navigateFirstPage": 1,
+      "navigateLastPage": 2
+    }
+  }
+}
